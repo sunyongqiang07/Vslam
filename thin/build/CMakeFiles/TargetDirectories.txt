@@ -1,0 +1,4 @@
+/home/qingwa/Vslam/thin/build/CMakeFiles/rebuild_cache.dir
+/home/qingwa/Vslam/thin/build/CMakeFiles/edit_cache.dir
+/home/qingwa/Vslam/thin/build/CMakeFiles/hello.dir
+/home/qingwa/Vslam/thin/build/CMakeFiles/main.dir

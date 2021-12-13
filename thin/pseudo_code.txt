@@ -1,0 +1,24 @@
+定义数组：A0 A1-A5 A6;
+获取地图矩阵；
+
+
+while(第5步仍然修改了东西)
+{
+    第0步//vertor<point> 边界数组 = step_zero(图像矩阵)
+    第1步//bool is_change = step_del(地图矩阵，边界数组，A1)
+    第2步//bool is_change = void step_del(地图矩阵，边界数组，A2)
+    第3步//bool is_change = void step_del(地图矩阵，边界数组，A3)
+    第4步//bool is_change = void step_del(地图矩阵，边界数组，A4)
+    第5步//bool is_change = void step_del(地图矩阵，边界数组，A1)
+}
+
+while(不是单像素骨架)
+{
+    第6步//bool is_one_pixel = bool step_one_pixel(地图矩阵，边界数组，A6)
+}
+
+输出地图；
+打印地图
+
+
+
